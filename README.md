@@ -52,9 +52,29 @@
   THEN I am able to successfully create, update, and delete data in my database
   ```
 
+  Gif of testing GET routes for all categories, products, and tags:
+
+  ![get routes all](Assets/GET-routes-to-return-all-categories,-products,-and-tags-being-tested.gif)
+
+  Gif of testing GET routes by ID:
+
+  ![get routes by id](Assets/testing-get-by-id.gif)
+
+  Gif of testing DELETE, CREATE, and UPDATE category:
+
+  ![post, put, delete category](Assets/testing-post-put-and-delete.gif)
+
+  Gif of testing DELETE, CREATE, and UPDATE for products and tags:
+
+  ![post, put, delete products and tags](Assets/post-put-delete-products-and-tags.gif)
+
 ## Links
 
   * Github Repository URL: https://github.com/itsnestor/E-Commerce-Back-End
+  * Tested GET routes returning all categories, all products, and all tags: https://drive.google.com/file/d/1nSMdHJqObXEL-VR4E63mjgtnERkCflh1/view
+  * Tested GET routes to return single category, single product, and single tag: https://drive.google.com/file/d/12J62BqbRtQs_Q3wgjNJbQmzMuzVYo-iT/view
+  * Tested DELETE category by id, CREATE category, and UPDATE category: https://drive.google.com/file/d/1LC7actM3xBdePfi1A70SoAYyA_ULjo2D/view
+  * tested DELETE, CREATE, and UPDATE for products and tags: https://drive.google.com/file/d/1Z5Ih2AbHpVEoUpldO6t-c1lV5AHC9wYv/view
 
 ## License
 
